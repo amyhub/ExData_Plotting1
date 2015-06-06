@@ -112,3 +112,11 @@ The four plots that you will need to construct are shown below.
 
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
 
+##################################################################
+
+This fork has been updated to include the 4 plot files and 4 corresponding
+.png files of the figures.
+Each .R file will load the data, process it, and output the figure to a .png file.
+
+
+
